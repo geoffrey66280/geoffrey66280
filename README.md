@@ -1,12 +1,6 @@
 ### Hi i'm a french
 
-<div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/geoffrey-servant-a781131b9/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <br>
-  <a href="https://servantgeoffrey.netlify.app/"> Link to my personnal website !
-  </a>
+
 
 ---
 
@@ -29,9 +23,21 @@
   
 </div>
 
+---
+
 ### :fire: My Stats :
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=geoffrey66280&theme=dark&background=000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geoffrey66280&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/geoffrey-servant-a781131b9/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <br>
+  <a href="https://servantgeoffrey.netlify.app/"> Link to my personnal website !
+  </a>
 </div>
+
