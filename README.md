@@ -1,7 +1,10 @@
-### Hi i'm a french
+### Hi, i'm a french student who is interested in Web development. 
 
+- :camera: Neophyte Photographer 
 
+- :zap: In my free time, i play piano, read books and do sports
 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/geoffrey-servant-a781131b9/")
 ---
 
 ### :telescope: Languages and Tools :
