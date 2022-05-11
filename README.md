@@ -1,5 +1,9 @@
 ### Hi, i'm a french student who is interested in Web development. 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 - :camera: Neophyte Photographer 
 
 - :zap: In my free time, i play piano, read books and do sports
