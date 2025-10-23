@@ -8,11 +8,7 @@
 
 ### :man_technologist: About Me :
 
-I'd like to be Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
-- :camera: Neophyte Photographer 
-
-- :zap: In my free time, i play piano, read books and do sports
+- :zap: Musicians, climber and Photographer
 
 
 ---
