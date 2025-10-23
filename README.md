@@ -8,7 +8,7 @@
 
 ### :man_technologist: About Me :
 
-- :zap: Musicians, climber and Photographer
+- :zap: Musician, climber and Photographer
 
 
 ---
